@@ -2,7 +2,7 @@
   import Header from "./Pages/header/index.svelte"
 </script>
 
-<main class="flex h-screen w-screen bg-cover overflow-hidden">
+<main class="h-screen w-screen bg-cover p-10 overflow-hidden">
   <Header />
 </main>
 
